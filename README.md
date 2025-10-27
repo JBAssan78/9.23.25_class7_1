@@ -6,26 +6,26 @@ GitHub is a web-based platform built on the Git version control system that allo
 
 **Must Know Commands**
 
-CD = Change Directory
+CD: Change Directory
 
-MKDIR = Make Directory
+MKDIR: Make Directory
 
-LS = List
+LS: List
 
-Touch = New Empty File
+Touch: New Empty File
 
 **Git Commands**
 
-git init = Initializing a new, empty repository
+git init: Initializing a new, empty repository
 
-git add README.md = read me file
+git add README.md: read me file
 
-git commit -m "first commit" = save staged changes
+git commit -m "first commit":  save staged changes
 
-git branch -M main =  master branch made
+git branch -M main: master branch made
 
-git remote add origin = connection to github repo to gitbash
+git remote add origin: connection to github repo to gitbash
 
-git push -u origin main = turns master to main branch
+git push -u origin main: turns master to main branch
 
 
