@@ -17,10 +17,15 @@ Touch = New Empty File
 **Git Commands**
 
 git init = Initializing a new, empty repository
+
 git add README.md = read me file
+
 git commit -m "first commit" = save staged changes
+
 git branch -M main =  master branch made
+
 git remote add origin = connection to github repo to gitbash
+
 git push -u origin main = turns master to main branch
 
 
