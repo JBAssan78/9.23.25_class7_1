@@ -7,8 +7,11 @@ GitHub is a web-based platform built on the Git version control system that allo
 **Must Know Commands**
 
 CD = Change Directory
+
 MKDIR = Make Directory
+
 LS = List
+
 Touch = New Empty File
 
 **Git Commands**
