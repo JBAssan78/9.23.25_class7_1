@@ -28,4 +28,22 @@ git remote add origin: connection to github repo to gitbash
 
 git push -u origin main: turns master to main branch
 
+**Step 1**
+**Creating and Managing a Folder in Git Bash**
+
+The first step is to open your Git Bash command line and navigate to (or create) a working directory. Use the cd command to move into your desired folder. For example, let’s create and work inside a folder called TheoWAF1:
+
+cd /path/to/your/directory
+mkdir TheoWAF1
+cd TheoWAF1
+
+Once inside the folder, you can add new files using the touch command. For instance, to create two files named notes.txt and sandbox.txt, run:
+
+touch notes.txt sandbox.txt
+
+To confirm that the files were created successfully, type:
+
+ls
+
+You should now see both notes.txt and sandbox.txt listed in your folder.
 
