@@ -1,4 +1,4 @@
-**GitHub**
+# GitHub
 
 This will be a step by step guide on how to set up and use github, using gitbash for command line control. As well as connecting gitbash and github to laptop and VS code Visual Studio Code.
 
